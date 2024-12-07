@@ -1,1 +1,34 @@
-{"posts":[{"body":"here is a second test","author":"Test McTester","id":"0.27015883294762766"},{"body":"Here is a test","author":"Test McTesty","id":"0.08192770336632349"},{"body":"This course is hopefully very helpful to you!","author":"Maximilian","id":"post-1"}]}
+{
+    "posts": [
+        {
+            "body": "THIS IS WORKING!!",
+            "author": "Pedro C",
+            "id": "0.4358812252484576"
+        },
+        {
+            "body": "THIS IS WORKING!!",
+            "author": "Pedro C",
+            "id": "0.9919671948447215"
+        },
+        {
+            "body": "lkkl",
+            "author": "pppppp",
+            "id": "0.21810442527066343"
+        },
+        {
+            "body": "here is a second test",
+            "author": "Test McTester",
+            "id": "0.27015883294762766"
+        },
+        {
+            "body": "Here is a test",
+            "author": "Test McTesty",
+            "id": "0.08192770336632349"
+        },
+        {
+            "body": "This course is hopefully very helpful to you!",
+            "author": "Maximilian",
+            "id": "post-1"
+        }
+    ]
+}
